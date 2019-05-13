@@ -1,0 +1,1 @@
+cnStr:Provider=SQLOLEDB.1;Persist Security Info=True;Initial Catalog=TestProject;Integrated Security=SSPI;Data Source=.
